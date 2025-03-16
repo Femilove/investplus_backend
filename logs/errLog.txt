@@ -1,0 +1,23 @@
+20250316	12:31:59	2c026958-5292-4478-a6ca-9dec457f3700	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:33:21	a26499f3-d626-407a-8ddf-dfc5fd7073b5	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:33:33	5e69ad86-c97d-42ea-a353-a936c08a773f	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:33:45	8ed5dc35-8ef6-4c24-8d05-6509a32caa48	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:42:11	1caf5b18-baa2-4b1e-bf94-a3e58ed03e6a	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:42:52	f58c623e-d9c1-469d-9e51-2b153f9f1724	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:44:51	58f022fc-ce0e-409e-b7bc-e7d8ca1e4dee	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\index.html'
+20250316	12:44:52	44ec3c47-03c5-41ce-a91e-b7f4d631218a	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\index.html'
+20250316	12:44:52	171d64a7-840c-44fc-966f-8ed82961b8cb	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:44:59	21021ea2-5f5b-4c8e-93d7-aa82d9078b78	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:44:59	bd8d9786-04fd-4dfd-980e-a02120588d71	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:45:04	0b0f13dd-1c14-4c4e-a0df-11c9e0ab0d94	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:45:04	7d1414af-b955-418c-b926-f65343244013	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	12:47:05	a9229256-118d-45e5-aa15-2de6f5d6fcf1	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	17:09:32	9987ff1d-1ecf-4181-9dc1-e4e94d47ff7c	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	17:10:12	e4168e06-2622-452f-a300-e97ab3e1dbdd	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	17:17:35	1afaf657-6512-4032-9884-66714678e0b9	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	18:13:28	9ed20e43-d14e-4696-b10e-188a00aaed04	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
+20250316	19:06:57	af5e5975-d2ba-4673-b1b0-d7f94b27b809	Error: Not allowed by CORS
+20250316	19:07:50	2d49684c-e246-4f89-95d9-dca1ff6d6d45	Error: Not allowed by CORS
+20250316	19:07:52	8cc33cff-8738-4a30-af74-25e6bc614b65	Error: Not allowed by CORS
+20250316	19:08:24	294b6ac4-dc29-4c92-9742-ff9f27f6859f	Error: Not allowed by CORS
+20250316	19:14:04	4c5daf47-4560-4975-be50-3491e3bfb8e7	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\wisdom nodejs\views\404.html'
