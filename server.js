@@ -41,6 +41,10 @@ app.use(cookieParser());
 
 // app.use('/', express.static(path.join(__dirname, '/public')));
 
+app.get('/', (req,res)=>{
+    res.send("its running")
+})
+
 // routes
 app.use('/', require('./routes/root'));
 app.use('/register', require('./routes/register'));
